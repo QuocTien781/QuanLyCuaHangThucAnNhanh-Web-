@@ -2,9 +2,8 @@
 ## Danh sách thành viên
 * Nguyễn Minh Hiếu - 18DH110472
 * Dương Quốc Tiễn - 18DH110416
-* Tăng Minh Long - 18DH110469
-## Mô Tả đề tài: 
-<p> trang web dùng để quản lý cửa hàng bán thức ăn nhanh </p>
+* Tăng Minh Long - 18DH110469 
+## Mô tả 
 ## Giới thiệu những chức năng
 <ul>
 <li> quản lý về món ăn của một cửa hàng bán thức ăn nhanh </li>
