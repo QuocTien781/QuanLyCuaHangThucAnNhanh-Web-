@@ -4,6 +4,9 @@
 * Dương Quốc Tiễn - 18DH110416
 * Tăng Minh Long - 18DH110469 
 ## Mô tả 
+<ul>
+  <li> </li>
+  </ul>
 ## Giới thiệu những chức năng
 <ul>
 <li> quản lý về món ăn của một cửa hàng bán thức ăn nhanh </li>
