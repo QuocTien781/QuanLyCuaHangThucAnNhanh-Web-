@@ -5,8 +5,9 @@
 * Tăng Minh Long - 18DH110469
 ## Mô Tả đề tài: gồm những chức năng
 <ul>
-<li> một trang web nhằm mục đích giúp quản lý được một cửa hàng bán thức ăn nhanh </li>
-<li> thể hiện được các yêu tố quản lý như quản lý nhân viên, quản lý doanh thu và quản lý được số lượng món ăn cũng như thực phẩm tồn trong cửa hàng </li>
-<li> mang lại một cảm giác dễ dàng và nhanh gọn trong việc quản lý một cửa hàng thưc ăn nhanh </li>
+<li> quản lý về món ăn của một cửa hàng bán thức ăn nhanh </li>
+<li> quản lý về nhân viên, số ngày làm việc và số ngày nghỉ của nhân viên </li>
+<li> quản lý về số lượng thực phẩm của cửa hàng bao gồm sử dụng trong ngày và tồn kho </li>
+  <li> quản lý về doanh thu của cửa hàng dựa vào số đơn hàng </li>
   </ul>
   
