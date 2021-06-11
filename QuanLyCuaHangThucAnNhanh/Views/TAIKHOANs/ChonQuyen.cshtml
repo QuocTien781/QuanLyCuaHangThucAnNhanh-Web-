@@ -1,0 +1,3 @@
+﻿@model QuanLyCuaHangThucAnNhanh.Models.QUYEN
+
+@Html.DropDownListFor(model => model.MaQuyen, new SelectList(Model.ListQuyen, "MaQuyen", "TenQuyen", "Chọn Quyền truy cập"))

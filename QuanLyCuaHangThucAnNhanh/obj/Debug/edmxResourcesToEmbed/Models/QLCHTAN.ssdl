@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QuanLyCuaHangThucAnNhanhModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="CHITIETHOADON">
+    <Key>
+      <PropertyRef Name="MaHD" />
+      <PropertyRef Name="MaMonAn" />
+    </Key>
+    <Property Name="MaHD" Type="char" MaxLength="20" Nullable="false" />
+    <Property Name="MaMonAn" Type="char" MaxLength="20" Nullable="false" />
+    <Property Name="SoLuong" Type="int" />
+  </EntityType>
+  <EntityType Name="HOADON">
+    <Key>
+      <PropertyRef Name="MaHD" />
+    </Key>
+    <Property Name="MaHD" Type="char" MaxLength="20" Nullable="false" />
+    <Property Name="MaNhanVien" Type="char" MaxLength="20" />
+    <Property Name="ThoiGian" Type="datetime" />
+  </EntityType>
+  <EntityType Name="LOAIMONAN">
+    <Key>
+      <PropertyRef Name="MaLoaiMonAn" />
+    </Key>
+    <Property Name="MaLoaiMonAn" Type="int" Nullable="false" />
+    <Property Name="TenLoaiMonAn" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="MONAN">
+    <Key>
+      <PropertyRef Name="MaMonAn" />
+    </Key>
+    <Property Name="MaMonAn" Type="char" MaxLength="20" Nullable="false" />
+    <Property Name="TenMonAn" Type="nvarchar" MaxLength="20" />
+    <Property Name="GiaTien" Type="float" />
+    <Property Name="Anh" Type="nvarchar(max)" />
+    <Property Name="MaLoaiMonAn" Type="int" />
+    <Property Name="SoLuong" Type="int" />
+  </EntityType>
+  <EntityType Name="NHANVIEN">
+    <Key>
+      <PropertyRef Name="MaNhanVien" />
+    </Key>
+    <Property Name="MaNhanVien" Type="char" MaxLength="20" Nullable="false" />
+    <Property Name="HoNhanVien" Type="nvarchar" MaxLength="20" />
+    <Property Name="TenNhanVien" Type="nvarchar" MaxLength="20" />
+    <Property Name="SDT" Type="char" MaxLength="20" />
+    <Property Name="NgaySinh" Type="datetime" />
+    <Property Name="GioiTinh" Type="bit" />
+    <Property Name="Anh" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="QUYEN">
+    <Key>
+      <PropertyRef Name="MaQuyen" />
+    </Key>
+    <Property Name="MaQuyen" Type="char" MaxLength="20" Nullable="false" />
+    <Property Name="TenQuyen" Type="char" MaxLength="20" />
+    <Property Name="GhiChu" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="TAIKHOAN">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="char" MaxLength="20" Nullable="false" />
+    <Property Name="TenTaiKhoan" Type="char" MaxLength="20" />
+    <Property Name="MatKhau" Type="char" MaxLength="20" />
+    <Property Name="MaQuyen" Type="char" MaxLength="20" />
+    <Property Name="MaNhanVien" Type="char" MaxLength="20" />
+  </EntityType>
+  <Association Name="FK_MONAN_LOAIMONAN">
+    <End Role="LOAIMONAN" Type="Self.LOAIMONAN" Multiplicity="0..1" />
+    <End Role="MONAN" Type="Self.MONAN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LOAIMONAN">
+        <PropertyRef Name="MaLoaiMonAn" />
+      </Principal>
+      <Dependent Role="MONAN">
+        <PropertyRef Name="MaLoaiMonAn" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="PK_CHITIETHOADON_HOADON">
+    <End Role="HOADON" Type="Self.HOADON" Multiplicity="1" />
+    <End Role="CHITIETHOADON" Type="Self.CHITIETHOADON" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HOADON">
+        <PropertyRef Name="MaHD" />
+      </Principal>
+      <Dependent Role="CHITIETHOADON">
+        <PropertyRef Name="MaHD" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="PK_CHITIETHOADON_MONAN">
+    <End Role="MONAN" Type="Self.MONAN" Multiplicity="1" />
+    <End Role="CHITIETHOADON" Type="Self.CHITIETHOADON" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MONAN">
+        <PropertyRef Name="MaMonAn" />
+      </Principal>
+      <Dependent Role="CHITIETHOADON">
+        <PropertyRef Name="MaMonAn" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="PK_HOADON_NHANVIEN">
+    <End Role="NHANVIEN" Type="Self.NHANVIEN" Multiplicity="0..1" />
+    <End Role="HOADON" Type="Self.HOADON" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NHANVIEN">
+        <PropertyRef Name="MaNhanVien" />
+      </Principal>
+      <Dependent Role="HOADON">
+        <PropertyRef Name="MaNhanVien" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="PK_MONAN_LOAIMONAN">
+    <End Role="LOAIMONAN" Type="Self.LOAIMONAN" Multiplicity="0..1" />
+    <End Role="MONAN" Type="Self.MONAN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LOAIMONAN">
+        <PropertyRef Name="MaLoaiMonAn" />
+      </Principal>
+      <Dependent Role="MONAN">
+        <PropertyRef Name="MaLoaiMonAn" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QuanLyCuaHangThucAnNhanhModelStoreContainer">
+    <EntitySet Name="CHITIETHOADON" EntityType="Self.CHITIETHOADON" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="HOADON" EntityType="Self.HOADON" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LOAIMONAN" EntityType="Self.LOAIMONAN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MONAN" EntityType="Self.MONAN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NHANVIEN" EntityType="Self.NHANVIEN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="QUYEN" EntityType="Self.QUYEN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TAIKHOAN" EntityType="Self.TAIKHOAN" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_MONAN_LOAIMONAN" Association="Self.FK_MONAN_LOAIMONAN">
+      <End Role="LOAIMONAN" EntitySet="LOAIMONAN" />
+      <End Role="MONAN" EntitySet="MONAN" />
+    </AssociationSet>
+    <AssociationSet Name="PK_CHITIETHOADON_HOADON" Association="Self.PK_CHITIETHOADON_HOADON">
+      <End Role="HOADON" EntitySet="HOADON" />
+      <End Role="CHITIETHOADON" EntitySet="CHITIETHOADON" />
+    </AssociationSet>
+    <AssociationSet Name="PK_CHITIETHOADON_MONAN" Association="Self.PK_CHITIETHOADON_MONAN">
+      <End Role="MONAN" EntitySet="MONAN" />
+      <End Role="CHITIETHOADON" EntitySet="CHITIETHOADON" />
+    </AssociationSet>
+    <AssociationSet Name="PK_HOADON_NHANVIEN" Association="Self.PK_HOADON_NHANVIEN">
+      <End Role="NHANVIEN" EntitySet="NHANVIEN" />
+      <End Role="HOADON" EntitySet="HOADON" />
+    </AssociationSet>
+    <AssociationSet Name="PK_MONAN_LOAIMONAN" Association="Self.PK_MONAN_LOAIMONAN">
+      <End Role="LOAIMONAN" EntitySet="LOAIMONAN" />
+      <End Role="MONAN" EntitySet="MONAN" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

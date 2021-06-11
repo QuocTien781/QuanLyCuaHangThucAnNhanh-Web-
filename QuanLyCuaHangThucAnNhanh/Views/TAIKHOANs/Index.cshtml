@@ -1,0 +1,77 @@
+﻿@model IEnumerable<QuanLyCuaHangThucAnNhanh.Models.TAIKHOAN>
+
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 class="title">Tài khoản</h2>
+
+<div class="row">
+    <div class="col-sm-12">
+        <div class="table-responsive">
+            <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.css">
+            <table id="example" class="display" style="width:100%">
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.TenTaiKhoan)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.MatKhau)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.MaQuyen)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.MaNhanVien)
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TenTaiKhoan)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.MatKhau)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.MaQuyen)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.MaNhanVien)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Sửa", "Edit", new { id = item.ID.Trim() }) |
+                          
+                            @Html.ActionLink("Xóa", "Delete", new { id = item.ID.Trim() })
+                        </td>
+                    </tr>
+
+
+                    }
+                </tbody>
+
+            </table>
+
+            <a class="btn btn-success btn-sm" style="float:right" href="@Url.Action("Create", "TAIKHOANs")">Thêm</a>
+
+
+            <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+            <script src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js"></script>
+
+            <script>
+                $(document).ready(function () {
+                    $('#example').DataTable({
+                        "pagingType": "full_numbers"
+                    });
+                });
+            </script>
+
+        </div>
+    </div>
+</div>

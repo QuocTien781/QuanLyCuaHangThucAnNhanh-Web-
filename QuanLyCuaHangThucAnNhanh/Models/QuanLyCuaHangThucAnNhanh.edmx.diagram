@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="3eac896eaa1a4a7898ddbc1507e1f442" Name="Diagram1" ZoomLevel="74">
+        <EntityTypeShape EntityType="QuanLyCuaHangThucAnNhanhModel.CTHD" Width="1.5" PointX="5.25" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyCuaHangThucAnNhanhModel.HD" Width="1.5" PointX="3" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyCuaHangThucAnNhanhModel.LOAIMONAN" Width="1.5" PointX="7.375" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyCuaHangThucAnNhanhModel.MONAN" Width="1.5" PointX="4.875" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyCuaHangThucAnNhanhModel.NHANVIEN" Width="1.5" PointX="0.75" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyCuaHangThucAnNhanhModel.QUYEN" Width="1.5" PointX="0.75" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyCuaHangThucAnNhanhModel.TAIKHOAN" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="QuanLyCuaHangThucAnNhanhModel.FK_CTHD_HD" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyCuaHangThucAnNhanhModel.FK_CTHD_MONAN" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyCuaHangThucAnNhanhModel.FK_HD_NHANVIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyCuaHangThucAnNhanhModel.FK_MONAN_LOAIMONAN" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyCuaHangThucAnNhanhModel.FK_TAIKHOAN_NHANVIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyCuaHangThucAnNhanhModel.FK_TAIKHOAN_QUYEN" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

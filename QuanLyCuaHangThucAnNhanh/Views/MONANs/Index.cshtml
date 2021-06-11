@@ -1,0 +1,102 @@
+﻿@model IEnumerable<QuanLyCuaHangThucAnNhanh.Models.MONAN>
+@using QuanLyCuaHangThucAnNhanh.Models;
+
+@{
+    /**/
+
+    ViewBag.Title = "Index";
+}
+<head>
+
+</head>
+
+<h2 class="title">Danh sách món ăn</h2>
+
+<!-- Kết thúc -->
+
+<div class="row">
+    <div class="col-sm-12">
+        <div class="table-responsive">
+            <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.css">
+            <table id="example" class="display" style="width:100%">
+                <thead>
+                    <tr>
+                        <th>
+                            Mã món ăn
+                        </th>
+                        <th>
+                            Tên món ăn
+                        </th>
+                        <th>
+                            Giá
+                        </th>
+
+                        <th>
+                            Loại
+                        </th>
+                        <th>
+                            Số lượng
+                        </th>
+                        <th>
+                            Ảnh
+                        </th>
+                        <th></th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.MaMonAn)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.TenMonAn)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.GiaTien)
+                            </td>
+
+                            <td>
+                                @Html.DisplayFor(modelItem => item.LOAIMONAN.TenLoaiMonAN)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.SoLuong)
+                            </td>
+                            <td>
+                                @*@Html.DisplayFor(modelItem => item.Anh)*@
+
+                                @Html.Image("../" + item.Anh, "", "50")
+                            </td>
+                            <td>
+                                @Html.ActionLink("Edit", "Edit", new { id = item.MaMonAn.Trim() }, "") |
+                                @Html.ActionLink("Delete", "Delete", new { id = item.MaMonAn.Trim() }, "")
+                            </td>
+                        </tr>
+
+
+                    }
+                </tbody>
+
+            </table>
+          
+            <a class="btn btn-success btn-sm" style="float:right" href="@Url.Action("Create", "MONANs")">Thêm</a>
+
+
+            <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+            <script src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js"></script>
+
+            <script>
+                $(document).ready(function () {
+                    $('#example').DataTable({
+                        "pagingType": "full_numbers"
+                    });
+                });
+            </script>
+
+        </div>
+    </div>
+</div>
+
+

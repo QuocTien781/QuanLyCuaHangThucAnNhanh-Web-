@@ -1,0 +1,51 @@
+﻿@model QuanLyCuaHangThucAnNhanh.Models.LOAIMONAN
+
+@{
+    ViewBag.Title = "Create";
+}
+
+
+<div class="card-header">
+    <h2 class="title">Thêm loại</h2>
+
+</div>
+
+@using (Html.BeginForm("Create", "LOAIMONANs", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+<div class="table">
+    <div class="card-body">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group1">
+                    <p class="tieude">Mã loại </p>
+                    @Html.EditorFor(model => model.MaLoaiMonAn, new { htmlAttributes = new { @class = "form-control", disabled = "disabled", @readonly = "readonly", style = "background:white" } })
+                    @Html.HiddenFor(model => model.MaLoaiMonAn)
+                    @Html.ValidationMessageFor(model => model.MaLoaiMonAn, "", new { @class = "text-danger" })
+                </div>
+                <div class="form-group1">
+                    <p class="tieude">Tên loại món</p>
+                    @Html.EditorFor(model => model.TenLoaiMonAN, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.TenLoaiMonAN, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+
+    <div class="form-group1">
+        <div class="col-md-offset-2 col-md-10">
+            <input class="btn inp" type="submit" value="Create" />
+        </div>
+    </div>
+   
+</div>
+
+   
+
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

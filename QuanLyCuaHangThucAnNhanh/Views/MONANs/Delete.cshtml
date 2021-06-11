@@ -1,0 +1,55 @@
+﻿@model QuanLyCuaHangThucAnNhanh.Models.MONAN
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2 class="title">Xóa</h2>
+
+<div>
+   
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TenMonAn)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenMonAn)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GiaTien)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GiaTien)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Anh)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Anh)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MaLoaiMonAn)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MaLoaiMonAn)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Xác nhận" class="btn btn-default" /> |
+            @Html.ActionLink("Hủy", "Index")
+        </div>
+    }
+</div>

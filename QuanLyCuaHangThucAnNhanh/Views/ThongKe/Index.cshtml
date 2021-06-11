@@ -1,0 +1,58 @@
+﻿@model List<QuanLyCuaHangThucAnNhanh.Models.Thongke>
+    @{
+    ViewBag.Title = "Đặt món";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+<h2 class="title"> Thống kê</h2>
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="table-responsive">
+                <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.css">
+                <table id="example" class="display" style="width:100%">
+                    <thead>
+                        <tr>
+                            <th> Mã nhân viên</th>
+                            <th> Mã món ăn</th>
+                            <th> Tên món</th>
+                            <th> Số lượng</th>
+                            <th> Đơn giá</th>
+                            <th> Ngày giờ</th>
+                            <th> Loại</th>
+                            <th> Thành tiền</th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                        <tr>
+                            <td> @item.maNV</td>
+                            <td>@item.maMA</td>
+                            <td>@item.tenMA</td>
+                            <td>@item.soLuong</td>
+                            <td>@item.donGia</td>
+                            <td>@item.ngayGio</td>
+                            <td>@item.loai</td>
+                            <td>@item.thanhTien</td>
+                        </tr>
+
+
+                        }
+                    </tbody>
+
+                </table>
+                <div style="float:left;font-size:20px">  <b>Tổng doanh thu:</b> @Model.Sum(m => m.thanhTien) VND </div>
+                <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+                <script src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js"></script>
+
+                <script>
+                $(document).ready(function () {
+                    $('#example').DataTable({
+                        "pagingType": "full_numbers"
+                    });
+                });
+                </script>
+
+            </div>
+        </div>
+    </div>

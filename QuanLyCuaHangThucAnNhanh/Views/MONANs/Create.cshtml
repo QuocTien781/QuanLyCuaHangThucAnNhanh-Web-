@@ -1,0 +1,73 @@
+﻿@model QuanLyCuaHangThucAnNhanh.Models.MONAN
+
+@{
+    ViewBag.Title = "Create";
+}
+<div class="card-header">
+    <h2 class="title">Thêm món mới</h2>
+
+</div>
+
+@using (Html.BeginForm("Create", "MONANs", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+    <div class="table">
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group1">
+                        <p class="tieude">Mã món ăn</p>
+                        @Html.EditorFor(model => model.MaMonAn, new { htmlAttributes = new { @class = "form-control", disabled = "disabled", @readonly = "readonly", style = "background:white" } })
+                        @Html.HiddenFor(model => model.MaMonAn)
+                        @Html.ValidationMessageFor(model => model.MaMonAn, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group1">
+                        <p class="tieude">Tên Món ăn</p>
+                        @Html.EditorFor(model => model.TenMonAn, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.TenMonAn, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group1">
+                        <p class="tieude">Giá</p>
+                        @Html.EditorFor(model => model.GiaTien, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.GiaTien, "", new { @class = "text-danger" })
+
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group1">
+                        <p class="tieude">Số lượng</p>
+                        @Html.EditorFor(model => model.SoLuong, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.SoLuong, "", new { @class = "text-danger" })
+
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group1">
+                        <p class="tieude">Loại món ăn</p>
+                        @Html.DropDownList("MaLoaiMonAn", null, htmlAttributes: new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.MaLoaiMonAn, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group1">
+                        <p class="tieude">Ảnh</p>
+                        @Html.TextBox("Anh", "", new { type = "file" })@section Scripts {
+                            @Scripts.Render("~/bundles/jqueryval")
+                        }
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group1">
+                <div class="col-md-offset-2 col-md-10">
+                    <input class="btn inp" type="submit" value="Create" />
+                </div>
+            </div>
+        </div>
+    </div>
+}
+

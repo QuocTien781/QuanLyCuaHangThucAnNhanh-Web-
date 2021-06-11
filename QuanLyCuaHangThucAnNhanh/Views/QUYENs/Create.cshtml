@@ -1,0 +1,59 @@
+﻿@model QuanLyCuaHangThucAnNhanh.Models.QUYEN
+
+@{
+    ViewBag.Title = "Create";
+}
+<div class="card-header">
+    <h2 class="title">Thêm quyền</h2>
+
+</div>
+
+@using (Html.BeginForm("Create", "QUYENs", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+    <div class="table">
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-6">
+
+                    <div class="col-md-6">
+                        <div class="form-group1">
+                            <p class="tieude">Mã quyền</p>
+                            @Html.EditorFor(model => model.MaQuyen, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.MaQuyen, "", new { @class = "text-danger" })
+
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group1">
+                            <p class="tieude">Tên quyền</p>
+                            @Html.EditorFor(model => model.TenQuyen, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.TenQuyen, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group1">
+
+                        <p class="tieude">Ghi chú</p>
+
+                        @Html.EditorFor(model => model.GhiChu, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.GhiChu, "", new { @class = "text-danger" })
+
+                    </div>
+                    </div>
+                    </div>
+               
+
+            <div class="form-group1">
+                <div class="col-md-offset-2 col-md-10">
+                    <input class="btn inp" type="submit" value="Thêm" />
+                </div>
+            </div>
+        </div>
+                </div>
+            </div>
+     
+}
+      

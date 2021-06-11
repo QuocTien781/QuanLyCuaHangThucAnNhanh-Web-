@@ -1,0 +1,408 @@
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\QuanLyCuaHangThucAnNhanh.dll.config
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\QuanLyCuaHangThucAnNhanh.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\QuanLyCuaHangThucAnNhanh.pdb
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csc.exe
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csc.exe.config
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csc.rsp
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csi.exe
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csi.exe.config
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csi.rsp
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.Managed.Core.targets
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.AppContext.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Collections.Immutable.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Console.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.IO.Compression.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.IO.FileSystem.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.IO.Pipes.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Reflection.Metadata.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.AccessControl.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Claims.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Principal.Windows.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.ValueTuple.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Xml.XmlDocument.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Xml.XPath.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\vbc.exe
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\vbc.exe.config
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\vbc.rsp
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\VBCSCompiler.exe
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\VBCSCompiler.exe.config
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Antlr3.Runtime.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\EntityFramework.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\EntityFramework.SqlServer.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Microsoft.Web.Infrastructure.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Newtonsoft.Json.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Helpers.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Mvc.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Optimization.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Razor.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.Deployment.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.Razor.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\WebGrease.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\EntityFramework.xml
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\EntityFramework.SqlServer.xml
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Helpers.xml
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Mvc.xml
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Optimization.xml
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Razor.xml
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.xml
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.Deployment.xml
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.Razor.xml
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Newtonsoft.Json.xml
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Antlr3.Runtime.pdb
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.CoreCompileInputs.cache
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.CopyComplete
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.dll
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.pdb
+G:\DU LIEU\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csprojAssemblyReference.cache
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.pdb
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\QuanLyCuaHangThucAnNhanh.dll.config
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\QuanLyCuaHangThucAnNhanh.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\QuanLyCuaHangThucAnNhanh.pdb
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csc.exe
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csc.exe.config
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csc.rsp
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csi.exe
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csi.exe.config
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csi.rsp
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.AppContext.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Console.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.IO.Compression.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.IO.Pipes.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Claims.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.ValueTuple.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Xml.XPath.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\vbc.exe
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\vbc.exe.config
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\vbc.rsp
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\VBCSCompiler.exe
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Antlr3.Runtime.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\EntityFramework.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\EntityFramework.SqlServer.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Newtonsoft.Json.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Helpers.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Mvc.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Optimization.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Razor.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.Deployment.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.Razor.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\WebGrease.dll
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\EntityFramework.xml
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\EntityFramework.SqlServer.xml
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Helpers.xml
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Mvc.xml
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Optimization.xml
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Razor.xml
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.xml
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.Deployment.xml
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.Razor.xml
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Newtonsoft.Json.xml
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Antlr3.Runtime.pdb
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.CopyComplete
+C:\Users\thanh\Downloads\Compressed\QuanLyCuaHangThucAnNhanh_3\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csprojAssemblyReference.cache
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.CoreCompileInputs.cache
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.pdb
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\QuanLyCuaHangThucAnNhanh.dll.config
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\QuanLyCuaHangThucAnNhanh.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\QuanLyCuaHangThucAnNhanh.pdb
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csc.exe
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csc.exe.config
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csc.rsp
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csi.exe
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csi.exe.config
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csi.rsp
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.AppContext.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Console.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.IO.Compression.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Claims.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.ValueTuple.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\vbc.exe
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\vbc.exe.config
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\vbc.rsp
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\VBCSCompiler.exe
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Antlr3.Runtime.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\EntityFramework.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\EntityFramework.SqlServer.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Newtonsoft.Json.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Helpers.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Mvc.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Optimization.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Razor.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.Razor.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\WebGrease.dll
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\EntityFramework.xml
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\EntityFramework.SqlServer.xml
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Helpers.xml
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Mvc.xml
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Optimization.xml
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Razor.xml
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.xml
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.Razor.xml
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Newtonsoft.Json.xml
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Antlr3.Runtime.pdb
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.CopyComplete
+C:\Users\rfmeo\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.pdb
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\QuanLyCuaHangThucAnNhanh.dll.config
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\QuanLyCuaHangThucAnNhanh.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\QuanLyCuaHangThucAnNhanh.pdb
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csc.exe
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csc.exe.config
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csc.rsp
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csi.exe
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csi.exe.config
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csi.rsp
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Console.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\vbc.exe
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\vbc.exe.config
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\vbc.rsp
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Antlr3.Runtime.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\EntityFramework.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Newtonsoft.Json.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Helpers.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Mvc.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Optimization.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Razor.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\WebGrease.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\EntityFramework.xml
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Helpers.xml
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Mvc.xml
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Optimization.xml
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Razor.xml
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.xml
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Newtonsoft.Json.xml
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\PagedList.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\PagedList.Mvc.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\PagedList.xml
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\PagedList.Mvc.xml
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csprojAssemblyReference.cache
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.CoreCompileInputs.cache
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.pdb
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\QuanLyCuaHangThucAnNhanh.dll.config
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\QuanLyCuaHangThucAnNhanh.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\QuanLyCuaHangThucAnNhanh.pdb
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csc.exe
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csc.exe.config
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csc.rsp
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csi.exe
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csi.exe.config
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\csi.rsp
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.Managed.Core.targets
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.AppContext.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Collections.Immutable.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Console.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.IO.Compression.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.IO.FileSystem.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.IO.Pipes.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Reflection.Metadata.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.AccessControl.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Claims.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Security.Principal.Windows.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.ValueTuple.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Xml.XmlDocument.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Xml.XPath.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\vbc.exe
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\vbc.exe.config
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\vbc.rsp
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\VBCSCompiler.exe
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\roslyn\VBCSCompiler.exe.config
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Antlr3.Runtime.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\EntityFramework.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\EntityFramework.SqlServer.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Microsoft.Web.Infrastructure.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Newtonsoft.Json.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\PagedList.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\PagedList.Mvc.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Helpers.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Mvc.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Optimization.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Razor.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.Deployment.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.Razor.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\WebGrease.dll
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\EntityFramework.xml
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\EntityFramework.SqlServer.xml
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\PagedList.xml
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\PagedList.Mvc.xml
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Helpers.xml
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Mvc.xml
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Optimization.xml
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.Razor.xml
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.xml
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.Deployment.xml
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\System.Web.WebPages.Razor.xml
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Newtonsoft.Json.xml
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Antlr3.Runtime.pdb
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\DU LIEU\New folder\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.CopyComplete

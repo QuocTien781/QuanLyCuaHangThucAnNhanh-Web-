@@ -1,0 +1,79 @@
+﻿@model QuanLyCuaHangThucAnNhanh.Models.NHANVIEN
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Cập nhật nhân viên</h2>
+
+
+@using (Html.BeginForm("Edit", "NHANVIENs", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+    <div class="table">
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group1">
+                        <p class="tieude">Mã nhân viên</p>
+                        @Html.EditorFor(model => model.MaNhanVien, new { htmlAttributes = new { @class = "form-control", disabled = "disabled", @readonly = "readonly", style = "background:white" } })
+                        @Html.HiddenFor(model => model.MaNhanVien)
+                        @Html.ValidationMessageFor(model => model.MaNhanVien, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group1">
+                        <p class="tieude">Họ nhân viên</p>
+                        @Html.EditorFor(model => model.HoNhanVien, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.HoNhanVien, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group1">
+                        <p class="tieude">Tên nhân viên</p>
+                        @Html.EditorFor(model => model.TenNhanVien, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.TenNhanVien, "", new { @class = "text-danger" })
+
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group1">
+                        <p class="tieude">Số điện thoại</p>
+                        @Html.EditorFor(model => model.SDT, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.SDT, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+
+                <div class="col-md-6">
+                    <div class="form-group1">
+                        <p class="tieude">Ngày sinh</p>
+                        @Html.EditorFor(model => model.NgaySinh, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.NgaySinh, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group1">
+                        <p class="tieude">Giới tính</p>
+                        <div class="col-md-10">
+                            <div class="editor-field">
+                                Nam
+                                @Html.RadioButtonFor(model => model.GioiTinh, "Nam")
+                                Nữ
+                                @Html.RadioButtonFor(model => model.GioiTinh, "Nữ")
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group1">
+                <div class="col-md-offset-2 col-md-10">
+                    <input class="btn inp"  type="submit" value="Cập nhật" />
+                </div>
+            </div>
+            </div>
+        </div>
+            }
+
+          
